@@ -1,0 +1,5 @@
+pandas==*
+jaconv==*
+pykakasi==*
+requests==*
+more_itertools==*
