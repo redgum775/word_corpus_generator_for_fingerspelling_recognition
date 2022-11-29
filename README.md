@@ -21,7 +21,7 @@
    3. (ii)を未出現`LL`がなくなるまで繰り返す  
 3. 採用された日本語リストを指文字認識のためのコーバスとする
 
-## Refacence  
+## Reference  
 - 江本 祐太, 宮島 千代美, 伊藤 克亘. HMMに基づく連続指文字認識・合成用コーパスの構築. 電子情報通信学会技術研究報告 = IEICE technical report : 信学技報. 2005, vol.105 , no.295, p.53-58. （コーパスの構築に参考させて頂きました）  
 - [ryuuji/openbd-downloader](https://github.com/ryuuji/openbd-downloader) (openBDから全ての日本書籍タイトル取得の参考にさせて頂きました)  
 
